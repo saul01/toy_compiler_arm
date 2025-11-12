@@ -8,3 +8,4 @@ int main() {
     int c = a + b * 4;
     return c;
 }
+
